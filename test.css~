@@ -1,4 +1,11 @@
 body{
+<<<<<<< HEAD
 	background-color: green;
 	color: yellow;
+	font-family: "Comic Sans MS", cursive, sans-serif;
+=======
+	background-color: orange;
+	color: black;
+	font-family: "Lucida Console", Monaco, monospace;
+>>>>>>> ab-6l_abuel_2
 }

@@ -3,7 +3,11 @@
 	<link rel="stylesheet" type="text/css" href="test.css">
 </head>
 <body>
-	<h1>Hello World!</h1>
+<<<<<<< HEAD
+	<h1>ya-ho!</h1>
+=======
+	<h1>Bye Bye!</h1>
+>>>>>>> ab-6l_abuel_2
 	<img src="image.jpg"/>
 </body>
 </html>
